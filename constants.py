@@ -1,0 +1,7 @@
+BE_SETTINGS__AUTOAPPLYFUNCTIONPROTOTYPE = "binjaextras.renamingFunctions.autoapplyfunctionprototype"
+BE_SETTINGS__AUTOAPPLYFUNCTIONPROTOTYPE_ASK_BEFORE_OVERWRITING_USER_CHANGE = "binjaextras.renamingFunctions.autoapplyfunctionprototype_askbeforeoverwritinguserchange"
+BE_SETTINGS__AUTOAPPLYFUNCTIONPROTOTYPE_DONOT_OVERWRITE_USER_CHANGE = "binjaextras.renamingFunctions.autoapplyfunctionprototype_donotoverwrite"
+BE_SETTINGS__APPLYFUNCTIONPROTOTYPECONTEXTMENU = "binjaextras.contextmenu.applyfunctionprototype"
+BE_SETTINGS__IMPORTTYPELIBRARY = "binjaextras.types.importtypelibrary"
+
+CONTEXT_MENU_APPLY_TYPE = "BinjaExtras\\Apply Type"
