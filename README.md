@@ -1,11 +1,11 @@
 # binjaextras (v0.0.2)
 Author: **xorhex**
 
-_arious features to make windows malware analysis easier._
+_Various features to make windows malware analysis easier._
 
 ## Description:
 
-arious features to make windows malware analysis easier like adding function prototypes.
+Various features to make windows malware analysis easier like adding function prototypes.
 
 
 ## Installation Instructions
