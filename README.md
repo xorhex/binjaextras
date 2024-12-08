@@ -1,4 +1,4 @@
-# binjaextras (vv0.0.1)
+# binjaextras (vv0.0.2)
 Author: **xorhex**
 
 _arious features to make windows malware analysis easier._
