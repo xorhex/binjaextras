@@ -1,16 +1,37 @@
-## Apply Type
+# binjaextras (vv0.0.1)
+Author: **xorhex**
 
-1. Rename the variable to the API name
-2. Right click on the variable and select `BinjaExtras` and click `Apply Type`
+_arious features to make windows malware analysis easier._
 
-![](bn_type_application.gif)
+## Description:
 
-## Apply Type to Function
+arious features to make windows malware analysis easier like adding function prototypes.
 
-Sometimes a custom function will resolve an API and then jump to it.  The function prototype of the function that contains this code that both resolves and calls/jumps to the API function matches the corrisponding API function prototype being resolved - simply rename the function and the type is auto applied.
 
-## Settings
+## Installation Instructions
 
-All of the features can be controlled (enabled/disabled) via the settings.
+### Darwin
 
-![](BinjaExtraSettings.png)
+
+
+### Windows
+
+
+
+### Linux
+
+
+
+## Minimum Version
+
+This plugin requires the following minimum version of Binary Ninja:
+
+* 6455
+
+
+## License
+
+This plugin is released under a MIT license.
+## Metadata Version
+
+2
