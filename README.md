@@ -1,6 +1,7 @@
 # binjaextras (v0.0.4)
 
 Author: **xorhex**
+
 Copyright: **2025**
 
 _Various features to make windows malware analysis easier._
